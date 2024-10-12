@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917705210420",
+    "project_id": "snapmart-7566f",
+    "storage_bucket": "snapmart-7566f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917705210420:android:c8a4a2b2a977e1949b6861",
+        "android_client_info": {
+          "package_name": "com.snapmart.commerce.snapmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWV0fnEQ6w7gvWgb6NZrp57BrztxVEb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
